@@ -1,0 +1,39 @@
+.cuadro{
+background-color: black;
+border-radius: 20%;
+height: 500px;
+width: 350px;
+text-align: center;
+margin: 0 auto;
+margin-left: 100px;
+box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+
+
+
+}
+
+#titulo
+{
+color: white; 
+  font-family: "Lobster", sans-serif;
+font-size: 60px;;
+}
+
+#reloj{
+
+ height: 300px;   
+ width: 300px;
+text-align: center;
+ 
+}
+#sub{
+ color: aqua; 
+}
+#sub1{
+color: gold;
+}
+#sub2{
+color: gold;
+
+}
